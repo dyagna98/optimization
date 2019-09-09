@@ -1,109 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d86795b-3470-4ae7-9b2e-334a26ce4359" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/$DJI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/$DJI.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/$SPX.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/$SPX.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/$VIX.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/$VIX.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/A.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/A.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AAPL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AAPL.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ABC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ABC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ABI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ABI.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ABKFQ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ABKFQ.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ABT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ABT.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ACAS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ACAS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ACE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ACE.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ACN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ACN.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ACS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ACS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ADBE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ADBE.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ADI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ADI.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ADM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ADM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ADP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ADP.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ADSK.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ADSK.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AEE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEE.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AEP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEP.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AES.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AES.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AET.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AET.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AFL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AFL.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AGN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AGN.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AIG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AIG.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AIV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AIV.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AIZ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AIZ.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AKAM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AKAM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ALL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ALL.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ALTR.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ALTR.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ALXN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ALXN.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AMAT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AMAT.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AMD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AMD.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AMGN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AMGN.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AMP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AMP.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AMT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AMT.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AMZN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AMZN.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AN.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ANF.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ANF.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ANR.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ANR.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AON.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AON.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/APA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/APA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/APC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/APC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/APD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/APD.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/APH.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/APH.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/APOL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/APOL.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ARG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ARG.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ASH.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ASH.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ATI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ATI.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AVB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AVB.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AVP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AVP.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AVY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AVY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AXP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AXP.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AYE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AYE.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AZO.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AZO.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BAC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BAC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BAX.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BAX.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BBBY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BBBY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BBT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BBT.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BBY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BBY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BCR.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BCR.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BDK.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BDK.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BDX.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BDX.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BEAM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BEAM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BEN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BEN.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BF.B.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BF.B.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BHI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BHI.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BIG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BIG.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BIIB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BIIB.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BJS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BJS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BK.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BK.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BLK.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BLK.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BLL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BLL.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BMC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BMC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BMS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BMS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BMY.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BMY.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BRCM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BRCM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BRK.B.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BRK.B.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BRLI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BRLI.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BSC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BSC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BSX.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BSX.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BTU.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BTU.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BUD.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BUD.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BWA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BWA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BXP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BXP.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/C.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/C.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CAG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CAG.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CAH.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CAH.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CAM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CAM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CAT.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CAT.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CB.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CBE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CBE.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CBG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CBG.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CBS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CBS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CBSH.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CBSH.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CCE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/CCE.csv" afterDir="false" />
-    </list>
+    <list default="true" id="7d86795b-3470-4ae7-9b2e-334a26ce4359" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/optimize_something/optimization.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -123,7 +21,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="417" />
+    <option name="x" value="260" />
+    <option name="y" value="14" />
     <option name="width" value="961" />
     <option name="height" value="733" />
   </component>
@@ -227,13 +126,9 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17113096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
@@ -241,6 +136,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
